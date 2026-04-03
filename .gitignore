@@ -27,3 +27,15 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Git ###
+#IDE配置文件
+.idea/
+*.iml
+*.iws
+*.ipr
+
+#编译输出文件
+target/
+out /
+*.class
